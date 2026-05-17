@@ -1,7 +1,7 @@
 from hint import give_hint
 from number_generator import number
 
-#Replica of code i found online, for practice use only
+#Replica of code i found from JosephAHarris, written for practice use only
 
 def main():
     print ("You walk into a room and there's a bomb on the table!")
